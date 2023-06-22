@@ -1,4 +1,19 @@
-# Praat Scripting
+---
+title: "Praat Scripting"
+date: "2023-06-22"
+author:
+  name: "Eleanor Chodroff"
+  url: "https://www.eleanorchodroff.com/"
+  #orcid:
+  #email:
+  #affiliations:
+    #name:
+    #department:
+format:
+  html: default
+license: "CC-BY-SA 4.0"
+citation: true
+---
 
 ## Overview 
 Praat is an acoustic analysis program and programming language developed by Paul Boersma and David Weenink. Praat is best-known for its ability to visualize, label, and segment audio files, perform spectral and temporal analyses of audio, as well as synthesize and manipulate speech. The program is quite powerful and can even do machine learning and experiment building; the programming language is also highly convenient to know, particularly for automating Praat processes at scale.
